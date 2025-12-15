@@ -17,6 +17,6 @@ Python (pandas, openpyxl), Excel (advanced), SQL (basic), BI/DeltaMaster, ERP/ac
 
 **Featured projects**
 - Fleet invoice allocation automation (Python): https://github.com/Muhaajaj/fleet-finance-automation
-- Management reporting automation (Python): *(link here after you create the repo)*
+- Management reporting automation (Python): https://github.com/Muhaajaj/deltamaster-report-automation
 
 Berlin, Germany • English (primary) / German (B2) / Arabic / Spanish
