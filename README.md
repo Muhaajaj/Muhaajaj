@@ -1,4 +1,4 @@
-# Muhammad Ajaj
+# Muhammad Ghaith Ajaj
 
 Controlling / Performance Management / Finance Transformation — focused on reporting automation and process improvement.
 
