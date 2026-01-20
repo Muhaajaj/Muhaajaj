@@ -8,7 +8,7 @@ Controlling / Performance Management / Finance Transformation — focused on rep
 - Automation for reporting and booking exports using **Python (pandas/openpyxl)** and **Excel**
 
 **Selected impact**
-- Reduced fleet-invoice allocation work (200–250 vehicles) from **8–10 hours to <10 minutes**
+- Reduced fleet-invoice allocation work (over 300 vehicles) from **8–10 hours to <10 minutes**
 - Reduced cost-center errors by improving fleet master data handover (FleetOnline → Accounting)
 - Automated management reporting by merging exports and calculating KPIs
 
