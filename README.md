@@ -1,6 +1,6 @@
 # Ghaith Ajaj
 
-Controlling / Performance Management / Finance Transformation — focused on reporting automation and process improvement.
+Controller | Management Reporting & Process Optimization — focused on reporting automation and process improvement.
 
 **What I do**
 - Management reporting & cost-center allocations (multi-system environments)
